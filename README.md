@@ -1,2 +1,2 @@
-# template_openCV
+# prject_full_configuration_opencv_3
  
